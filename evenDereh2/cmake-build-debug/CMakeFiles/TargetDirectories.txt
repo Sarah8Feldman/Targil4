@@ -1,0 +1,3 @@
+/home/sarah/CLionProjects/flightSimulatorFinal/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/sarah/CLionProjects/flightSimulatorFinal/cmake-build-debug/CMakeFiles/mileStone2_23_1.dir
+/home/sarah/CLionProjects/flightSimulatorFinal/cmake-build-debug/CMakeFiles/edit_cache.dir

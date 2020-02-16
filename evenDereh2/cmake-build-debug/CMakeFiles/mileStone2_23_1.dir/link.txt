@@ -1,0 +1,1 @@
+/usr/bin/c++  -pthread -g   CMakeFiles/mileStone2_23_1.dir/MapSingleton.cpp.o CMakeFiles/mileStone2_23_1.dir/MyParallelServer.cpp.o CMakeFiles/mileStone2_23_1.dir/MySerialServer.cpp.o CMakeFiles/mileStone2_23_1.dir/MyTestClientHandler.cpp.o CMakeFiles/mileStone2_23_1.dir/SolutionAnalyst.cpp.o CMakeFiles/mileStone2_23_1.dir/main.cpp.o  -o mileStone2_23_1 
